@@ -1,0 +1,112 @@
+# Curso Presencial – Crea y Vende tu Aplicación Móvil con Angular 💰
+
+---
+
+## 📆 Fechas de inscripción:
+Primera y segunda semana de Junio
+
+## 📅 Fechas del curso:
+Sábado 12 y domingo 13 de Julio
+
+## ⏱️ Duración total:
+16 horas (8 horas por día)
+
+## 🛎️ Horario:
+De 9:00 a.m. a 6:00 p.m. ambos días
+
+## 📍 Ubicación (tentativa):
+**Torre Mítica**, Mitikah, Av. Río Churubusco 601, Xoco, Coyoacán, 03330 Ciudad de México, CDMX
+*(Sujeta a cambio dependiendo del número de inscritos)*
+
+---
+
+## ✅ ¿Qué incluye tu inscripción?
+🍱 Alimentos para ambos días  
+🧳 Materiales de apoyo (videos, comandos, y app final)  
+📜 Diploma de participación  
+👕 Playera conmemorativa del curso  
+💲 Costo: $5,000 pesos mexicanos (IVA incluido)
+
+---
+
+## 🧠 ¿Qué vas a aprender?
+
+Un curso completo donde no solo aprenderás a crear una app móvil con Angular desde cero, sino también cómo calcular su valor, cotizar tu trabajo y venderlo profesionalmente. También aprenderás a usar herramientas como ChatGPT para resolver errores técnicos por tu cuenta.
+
+## 🛠️ Tecnologías que aprenderás en este curso
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🧾 Temario
+
+### 🔰 Día 1 (Sábado) – Fundamentos Técnicos
+
+**🟢 Introducción a la tecnología**
+- ¿Qué es Angular y para qué sirve?
+- Qué necesitas para ser desarrollador
+- Instalación de Node.js, Angular CLI y VS Code
+- Cómo usar ChatGPT para resolver errores técnicos
+
+**🟢 Primeros pasos con Angular**
+- Fundamentos de HTML, JavaScript y TypeScript
+- Estructura de un proyecto Angular
+- Crear componentes, módulos y servicios
+- Uso de directivas (`*ngIf`, `*ngFor`), inputs y outputs
+
+**🟢 Proyecto base**
+- Clonación de un repositorio desde GitHub
+- Instalación de dependencias
+- Levantar tu primer servidor Angular
+
+---
+
+### 🚀 Día 2 (Domingo) – Proyecto Final + Finanzas y Ventas
+
+**🔵 Conexión a Base de Datos**
+- Introducción a bases de datos
+- Lectura y escritura desde Angular
+- Conexión a Firebase o API simulada
+
+**🔵 Aplicación práctica**
+- Desarrollar una app con carrito de compras
+- Formularios, validaciones, rutas y navegación
+
+**🔵 Finanzas para desarrolladores**
+- Cómo crear una empresa legalmente
+- Recomendaciones de régimenes fiscales al SAT
+- Cómo crear una cuenta empresarial
+- Cómo iniciar con tu empresa
+- Cómo llevar la contabilidad de tu empresa
+- Cómo cotizar tu trabajo
+- Cómo calcular costos y márgenes
+- Cómo presentar una propuesta formal
+
+**🔵 Cierre del curso**
+- Entrega de diplomas y playeras
+- Acceso a todos los recursos y videos
+- Resolución de dudas
+- Tips finales
+
+---
+
+## 🎯 ¿Para quién es este curso?
+
+👨‍🎓 Jóvenes desde 18 años sin experiencia previa  
+👩‍💻 Estudiantes universitarios  
+🧑‍🔧 Personas técnicas que quieren aprender a **vender su trabajo**  
+🧠 Freelancers y desarrolladores que quieren aprender Angular
+
+---
+
+## 📲 ¿Cómo me inscribo?
+
+Mándame mensaje por **Instagram** o **TikTok** para apartar tu lugar.  
+*Cupo limitado.*  
