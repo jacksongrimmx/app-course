@@ -110,3 +110,17 @@ Un curso completo donde no solo aprenderás a crear una app móvil con Angular d
 
 Mándame mensaje por **Instagram** o **TikTok** para apartar tu lugar.  
 *Cupo limitado.*  
+
+---
+
+## 📲 ¿Qué vamos a hacer?
+
+Vamos a hacer un Marketpalce
+
+![Image](https://github.com/user-attachments/assets/397d4626-01dd-471e-afe1-502faa52a250)
+![Image](https://github.com/user-attachments/assets/9a7be8a3-4f0e-444a-baa2-e9ae105a63cc)
+![Image](https://github.com/user-attachments/assets/e7c5b858-5355-4382-9a60-19174fad6bf4)
+![Image](https://github.com/user-attachments/assets/c4383512-7a56-43cd-9d1c-950680ff815c)
+![Image](https://github.com/user-attachments/assets/3f9437ae-b565-44fd-9feb-9107a71710f4)
+
+
