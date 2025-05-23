@@ -123,5 +123,15 @@ Vamos a hacer un Marketplace
 ![Image](https://github.com/user-attachments/assets/c4383512-7a56-43cd-9d1c-950680ff815c)
 ![Image](https://github.com/user-attachments/assets/e7c5b858-5355-4382-9a60-19174fad6bf4)
 
+## Instalación previa
+
+Deberás realizar la siguiente instalación para estar listo antes de iniciar el curso. No te enroles al curso si no has hecho esto primero.
+
+1. [Crea tu cuenta de github](https://github.com/)
+2. [Visual Studio Code](https://code.visualstudio.com/download)
+3. [Git](https://git-scm.com/downloads)
+4. [NodeJS](https://nodejs.org/)
+5. [Crea tu cuenta de Firebase](https://console.firebase.google.com/)
+
 
 
