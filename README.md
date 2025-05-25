@@ -133,5 +133,11 @@ Deberás realizar la siguiente instalación para estar listo antes de iniciar el
 4. [NodeJS](https://nodejs.org/)
 5. [Crea tu cuenta de Firebase](https://console.firebase.google.com/)
 
+## 📲 ¿Instalaciones y configuraciones previas al día del evento?
 
-
+- Descarga [Visual Studio Code](https://code.visualstudio.com/Download)
+- Descarga [NodeJS + NPM](https://nodejs.org/en)
+- Crea una cuenta en [Github](http://github.com)
+- Crea una cuenta en [Firebase](http://firebase.google.com)
+- Crea una cuenta en alguna página de Mockups, yo sugiero [GetMockup]([https://sketchelements.com/mockups](https://getmockup.app))
+- Crea una cuenta de [ChatGPT](http://chatgpt.com)
