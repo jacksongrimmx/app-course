@@ -129,5 +129,5 @@ Vamos a hacer un Marketplace
 - Descarga [NodeJS + NPM](https://nodejs.org/en)
 - Crea una cuenta en [Github](http://github.com)
 - Crea una cuenta en [Firebase](http://firebase.google.com)
-- Crea una cuenta en alguna página de Mockups, yo sugiero [GetMockup]([https://sketchelements.com/mockups](https://getmockup.app))
+- Crea una cuenta en alguna página de Mockups, yo sugiero [GetMockup](https://getmockup.app)
 - Crea una cuenta de [ChatGPT](http://chatgpt.com)
