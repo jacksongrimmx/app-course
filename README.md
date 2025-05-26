@@ -1,5 +1,7 @@
 # Curso Presencial – Crea y Vende tu Aplicación Móvil con Angular 💰
 
+## Mirar este video [IMPORTANTE](https://vt.tiktok.com/ZShTnh6MV/) antes de enrolarte
+
 ---
 
 ## 📆 Fechas de inscripción:
