@@ -17,18 +17,6 @@
 
 ---
 
-## 📆 Fechas de inscripción:
-Primera y segunda semana de Junio
-
-## 📅 Fechas del curso:
-Sábado 12 y domingo 13 de Julio
-
-## ⏱️ Duración total:
-16 horas (8 horas por día)
-
-## 🛎️ Horario:
-De 9:00 a.m. a 6:00 p.m. ambos días
-
 ## 📍 Ubicación (tentativa):
 **Torre Mítica**, Mitikah, Av. Río Churubusco 601, Xoco, Coyoacán, 03330 Ciudad de México, CDMX
 *(Sujeta a cambio dependiendo del número de inscritos)*
