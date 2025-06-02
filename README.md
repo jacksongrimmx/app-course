@@ -2,7 +2,7 @@
 
 ## Mirar este video [IMPORTANTE](https://vt.tiktok.com/ZShTnh6MV/) antes de enrolarte
 
-![Next Courses]([https://static.wixstatic.com/media/07ff59_e35c644a45fd4abaa9cd950b4be03f0d~mv2.png](https://static.wixstatic.com/media/07ff59_68727a123ca748e2a912861b8f701393~mv2.png))
+![Next Courses](https://static.wixstatic.com/media/07ff59_e35c644a45fd4abaa9cd950b4be03f0d~mv2.png)
 
 ---
 
