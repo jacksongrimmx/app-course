@@ -15,6 +15,13 @@ Fechas de inscripcion 3 Junio a 8 de Junio
 5. Aprenderás a cotizar tu trabajo para ofrecer una propuesta clara y económicamente atractiva para las empresas.
 6. Te voy a enseñar cómo crear tu propia empresa, qué modelos de negocio te van a funcionar y te pondré de ejemplo mis casos de éxito para que logres la independencia económoica que pocos hemos podido alcanzar.
 
+## Equipo Mínimo Recomendado 
+
+- Procesador (CPU): Intel Core i3 de 8ª generación (o equivalente AMD Ryzen 3)
+- Memoria RAM: 8 GB
+- Almacenamiento: 256 GB SSD (o NVMe)
+- Sistema operativo: Windows 10 (64 bit) actualizado, macOS 10.15+
+
 ## 📍 Ubicación (tentativa):
 **Torre Mítica**, Mitikah, Av. Río Churubusco 601, Xoco, Coyoacán, 03330 Ciudad de México, CDMX
 *(Sujeta a cambio dependiendo del número de inscritos)*
@@ -24,7 +31,7 @@ Fechas de inscripcion 3 Junio a 8 de Junio
 🧳 Materiales de apoyo (videos, comandos, y app final)  
 📜 Diploma de participación  
 👕 Playera conmemorativa del curso  
-💲 Costo: $5,000 pesos mexicanos (IVA incluido)
+💲 Costo: $5,000 pesos mexicanos + IVA
 
 ## 🧠 ¿Qué vas a aprender?
 
