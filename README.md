@@ -2,6 +2,19 @@
 
 ## Mirar este video [IMPORTANTE](https://vt.tiktok.com/ZShTnh6MV/) antes de enrolarte
 
+![Next Courses]([https://static.wixstatic.com/media/07ff59_e35c644a45fd4abaa9cd950b4be03f0d~mv2.png](https://static.wixstatic.com/media/07ff59_68727a123ca748e2a912861b8f701393~mv2.png))
+
+---
+
+## Agenda
+
+1. Veremos las herramientas que se necesitan para diseñar, modelar, crear, probar y lanzar tu producto en tiempo record.
+2. Hablaremos de conceptos teóricos de tecnología para que quede claro como se orquesta de inicio a final todos los elementos de tu producto final, de este modo podrás resolver las dudas de tus clientes una vez estés en platicas de negocios.
+3. Crearas tu primer aplicación en ambientes locales, los lanzaras a ambientes de pruebas y después a un ambiente productivo empresarial en Github.
+4. Conectaras tu aplicación con la nube y la pondrás a disposición del público.
+5. Aprenderás a cotizar tu trabajo para ofrecer una propuesta clara y económicamente atractiva para las empresas.
+6. Te voy a enseñar cómo crear tu propia empresa, qué modelos de negocio te van a funcionar y te pondré de ejemplo mis casos de éxito para que logres la independencia económoica que pocos hemos podido alcanzar.
+
 ---
 
 ## 📆 Fechas de inscripción:
