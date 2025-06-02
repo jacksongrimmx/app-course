@@ -6,8 +6,6 @@
 [Compra tus boletos aquí](https://www.redboyconsulting.com/event-details/crea-y-vende-tu-app-de-angular)
 Fechas de inscripcion 3 Junio a 8 de Junio
 
----
-
 ## Agenda
 
 1. Veremos las herramientas que se necesitan para diseñar, modelar, crear, probar y lanzar tu producto en tiempo record.
@@ -17,13 +15,9 @@ Fechas de inscripcion 3 Junio a 8 de Junio
 5. Aprenderás a cotizar tu trabajo para ofrecer una propuesta clara y económicamente atractiva para las empresas.
 6. Te voy a enseñar cómo crear tu propia empresa, qué modelos de negocio te van a funcionar y te pondré de ejemplo mis casos de éxito para que logres la independencia económoica que pocos hemos podido alcanzar.
 
----
-
 ## 📍 Ubicación (tentativa):
 **Torre Mítica**, Mitikah, Av. Río Churubusco 601, Xoco, Coyoacán, 03330 Ciudad de México, CDMX
 *(Sujeta a cambio dependiendo del número de inscritos)*
-
----
 
 ## ✅ ¿Qué incluye tu inscripción?
 🍱 Alimentos para ambos días  
@@ -31,8 +25,6 @@ Fechas de inscripcion 3 Junio a 8 de Junio
 📜 Diploma de participación  
 👕 Playera conmemorativa del curso  
 💲 Costo: $5,000 pesos mexicanos (IVA incluido)
-
----
 
 ## 🧠 ¿Qué vas a aprender?
 
@@ -47,8 +39,6 @@ Un curso completo donde no solo aprenderás a crear una app móvil con Angular d
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-
----
 
 ## 🧾 Temario
 
@@ -100,23 +90,12 @@ Un curso completo donde no solo aprenderás a crear una app móvil con Angular d
 - Resolución de dudas
 - Tips finales
 
----
-
 ## 🎯 ¿Para quién es este curso?
 
 👨‍🎓 Jóvenes desde 18 años sin experiencia previa  
 👩‍💻 Estudiantes universitarios  
 🧑‍🔧 Personas técnicas que quieren aprender a **vender su trabajo**  
 🧠 Freelancers y desarrolladores que quieren aprender Angular
-
----
-
-## 📲 ¿Cómo me inscribo?
-
-Mándame mensaje por **Instagram** o **TikTok** para apartar tu lugar.  
-*Cupo limitado.*  
-
----
 
 ## 📲 ¿Qué vamos a hacer?
 
