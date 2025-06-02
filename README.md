@@ -3,7 +3,7 @@
 ## Mirar este video [IMPORTANTE](https://vt.tiktok.com/ZShTnh6MV/) antes de enrolarte
 
 ![Next Courses](https://static.wixstatic.com/media/07ff59_e35c644a45fd4abaa9cd950b4be03f0d~mv2.png)
-
+[Compra tus boletos aquí](https://www.redboyconsulting.com/event-details/crea-y-vende-tu-app-de-angular)
 ---
 
 ## Agenda
