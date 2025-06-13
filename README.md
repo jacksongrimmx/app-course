@@ -122,3 +122,5 @@ Vamos a hacer un Marketplace
 - Crea una cuenta en [Firebase](http://firebase.google.com)
 - Crea una cuenta en alguna página de Mockups, yo sugiero [GetMockup](https://getmockup.app)
 - Crea una cuenta de [ChatGPT](http://chatgpt.com)
+- Descarga [Git](https://git-scm.com/downloads)
+- Crea una cuenta en [Discord](https://discord.com/download)
