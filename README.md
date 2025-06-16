@@ -6,6 +6,7 @@
 [Compra tus boletos aquí](https://www.redboyconsulting.com/event-details/crea-y-vende-tu-app-de-angular-1)
 - Fechas de inscripcion: 16 Junio a 25 de Junio
 - Dias del evento: 28 de Junio a 29 de Junio
+📍 Ubicación: Miguel Lerdo de Tejada 137, Col. Guadalupe Inn, Álvaro Obregón, CP 01020, Ciudad de México
 
 ## Agenda
 
@@ -22,10 +23,6 @@
 - Memoria RAM: 8 GB
 - Almacenamiento: 256 GB SSD (o NVMe)
 - Sistema operativo: Windows 10 (64 bit) actualizado, macOS 10.15+
-
-## 📍 Ubicación (tentativa):
-**Torre Mítica**, Mitikah, Av. Río Churubusco 601, Xoco, Coyoacán, 03330 Ciudad de México, CDMX
-*(Sujeta a cambio dependiendo del número de inscritos)*
 
 ## ✅ ¿Qué incluye tu inscripción?
 🍱 Alimentos para ambos días  
