@@ -30,7 +30,7 @@
 🧳 Materiales de apoyo (videos, comandos, y app final)  
 📜 Diploma de participación  
 👕 Playera conmemorativa del curso  
-💲 Costo: $5,000 pesos mexicanos + IVA
+💲 Costo: $5,500 pesos mexicanos + IVA
 
 ## 🧠 ¿Qué vas a aprender?
 
