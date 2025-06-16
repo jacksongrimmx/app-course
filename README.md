@@ -6,7 +6,7 @@
 [Compra tus boletos aquí](https://www.redboyconsulting.com/event-details/crea-y-vende-tu-app-de-angular-1)
 - Fechas de inscripcion: 16 Junio a 25 de Junio
 - Dias del evento: 28 de Junio a 29 de Junio
-📍 Ubicación: Miguel Lerdo de Tejada 137, Col. Guadalupe Inn, Álvaro Obregón, CP 01020, Ciudad de México
+-📍 Ubicación: Miguel Lerdo de Tejada 137, Col. Guadalupe Inn, Álvaro Obregón, CP 01020, Ciudad de México
 
 ## Agenda
 
