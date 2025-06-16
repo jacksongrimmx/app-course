@@ -3,7 +3,7 @@
 ## Mirar este video [IMPORTANTE](https://vt.tiktok.com/ZShTnh6MV/) antes de enrolarte
 
 ![Next Courses](https://static.wixstatic.com/media/07ff59_217ee91e7af94900924b2493a9213d3a~mv2.png)
-[Compra tus boletos aquí](https://www.redboyconsulting.com/event-details/crea-y-vende-tu-app-de-angular)
+[Compra tus boletos aquí](https://www.redboyconsulting.com/event-details/crea-y-vende-tu-app-de-angular-1)
 - Fechas de inscripcion: 16 Junio a 25 de Junio
 - Dias del evento: 28 de Junio a 29 de Junio
 
