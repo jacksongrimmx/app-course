@@ -2,9 +2,9 @@
 
 ## Mirar este video [IMPORTANTE](https://vt.tiktok.com/ZShTnh6MV/) antes de enrolarte
 
-![Next Courses](https://static.wixstatic.com/media/07ff59_217ee91e7af94900924b2493a9213d3a~mv2.png)
+![Next Courses](https://static.wixstatic.com/media/07ff59_2a3be59e9b9e46fe818b8bd65d194b80~mv2.png)
 
-🎟️ **Fechas de inscripción:** 16 Junio a 25 de Junio [Compra tus boletos aquí](https://www.redboyconsulting.com/event-details/crea-y-vende-tu-app-de-angular-1)  
+🎟️ **Fechas de inscripción:** 16 Junio a 25 de Junio [Compra tus boletos aquí](https://www.redboyconsulting.com/event-details/crea-y-vende-tu-app-de-angular-2)  
 📅 **Días del evento:** 28 de Junio a 29 de Junio  
 📍 **Ubicación:** Miguel Lerdo de Tejada 137, Col. Guadalupe Inn, Álvaro Obregón, CP 01020, Ciudad de México  
 🚨 **Cupo limitado: solo 15 personas**
