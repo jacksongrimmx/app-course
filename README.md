@@ -2,9 +2,9 @@
 
 ## Mirar este video [IMPORTANTE](https://vt.tiktok.com/ZShTnh6MV/) antes de enrolarte
 
-![Next Courses](https://static.wixstatic.com/media/07ff59_b2f60252916f4005993fd0c905ff6f2b~mv2.png)
+![Next Courses](https://static.wixstatic.com/media/07ff59_4520b82c27dc43d0982174d2c03a2585~mv2.png)
 
-[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/crea-tu-empresa-app-de-angular-y-vendela)
+[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/crea-tu-empresa-app-de-angular-y-vendela-2)
 
 📅 **Días del evento:** 23 de Junio a 24 de Agosto   
 📍 **Ubicación:** Miguel Lerdo de Tejada 137, Col. Guadalupe Inn, Álvaro Obregón, CP 01020, Ciudad de México  
